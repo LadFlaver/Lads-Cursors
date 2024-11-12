@@ -57,6 +57,8 @@ You may:
  - Modify this project for personal use.
  - Distribute your modified versions of this project when credit is given.
  - Feature this project in media where the project is not the focus without credit.
+ - Distribute this project as a part of another project if this project is credited.
+
 You may not:
  - Reupload or redistribute this project without modification.
 If you have questions or would like an exception to these permissions, please create an issue on the project.
