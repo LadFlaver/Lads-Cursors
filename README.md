@@ -61,4 +61,5 @@ You may:
 
 You may not:
  - Reupload or redistribute this project without modification.
+
 If you have questions or would like an exception to these permissions, please create an issue on the project.
