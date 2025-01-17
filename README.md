@@ -52,14 +52,3 @@ Save the new scheme if desired.
 ![Screenshot 2024-11-11 215936](https://github.com/user-attachments/assets/45b29077-0490-4c91-8ae2-42e7ccb9d1dd)
 
 The SVG files this project was made with will become available at a future time.
-
-You may:
- - Modify this project for personal use.
- - Distribute your modified versions of this project when credit is given.
- - Feature this project in media where the project is not the focus without credit.
- - Distribute this project as a part of another project if credit is given.
-
-You may not:
- - Reupload or redistribute this project without modification.
-
-If you have questions or would like an exception to these permissions, please create an issue on the project.
