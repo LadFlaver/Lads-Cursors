@@ -1,4 +1,4 @@
-Lad's Cursors is a unique set of cursors for the Windows operating system (with a version for Linux hopefully coming soon). The most notable feature is the combination of the classic loading wheel and the cursor itself. The loading cursors are available in 11 colors!
+Lad's Cursors is a unique set of cursors for the Windows operating system (with an expirimental version for Linux hopefully). The most notable feature is the combination of the classic loading wheel and the cursor itself. The loading cursors are available in 11 colors!
  
 ![Cursor](https://github.com/user-attachments/assets/38472a5c-1af7-4fa3-bc56-2d76db489c28)
 ![LoadingZomp](https://github.com/user-attachments/assets/c27bfd57-00dd-48aa-b09d-c96c2fa7f11e)
@@ -25,7 +25,9 @@ Lad's Cursors is a unique set of cursors for the Windows operating system (with 
 ![Move](https://github.com/user-attachments/assets/20928e98-3354-4c70-a0af-4129f468b745)
 ![CursorHelp](https://github.com/user-attachments/assets/384300b9-49e2-45d8-933a-6ea301006f7f)
 
-To use the cursors, download the latest release from this page. Extract the files and put them somewhere where you will not need to move them. If you move them, you will need to redo this process.
+**For Windows**
+
+To use the cursors, download the latest release for Windows from this page. Extract the files and put them somewhere where you will not need to move them. If you move them, you will need to redo this process.
 
 Open the Settings app and click on "Bluetooth & devices".
 
@@ -50,5 +52,11 @@ Double click each cursor and select the corresponding cursor or desired color. I
 Save the new scheme if desired.
 
 ![Screenshot 2024-11-11 215936](https://github.com/user-attachments/assets/45b29077-0490-4c91-8ae2-42e7ccb9d1dd)
+
+**For Linux:**
+
+Download the latest release for Linux and extract the theme. Put the theme in the .icons folder in the home directory.
+
+Select the theme in your settings. By default, the theme uses the blue cursor for "Working in Background" and the green cursor for "Busy". Instructions on changing this will be made at a future time.
 
 The SVG files this project was made with will become available at a future time.
