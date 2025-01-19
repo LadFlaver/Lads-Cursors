@@ -1,4 +1,4 @@
-Lad's Cursors is a unique set of cursors for the Windows operating system (with an expirimental version for Linux hopefully). The most notable feature is the combination of the classic loading wheel and the cursor itself. The loading cursors are available in 11 colors!
+Lad's Cursors is a unique set of cursors for the Windows operating system (with an expirimental version for Linux). The most notable feature is the combination of the classic loading wheel and the cursor itself. The loading cursors are available in 11 colors!
  
 ![Cursor](https://github.com/user-attachments/assets/38472a5c-1af7-4fa3-bc56-2d76db489c28)
 ![LoadingZomp](https://github.com/user-attachments/assets/c27bfd57-00dd-48aa-b09d-c96c2fa7f11e)
